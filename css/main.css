@@ -49,8 +49,10 @@ h2{
 }
 .boton{
 	position: absolute;
-	left:30%;
+	left: 0;
+	right: 0;
 	bottom: 0;
+	margin: 0 auto;
 	width: 500px;
 	padding: 2%;
 	background-color: #192951;
