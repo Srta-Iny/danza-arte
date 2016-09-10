@@ -20,15 +20,17 @@ nav li{
 	position: relative;
 	padding: 0;
 }
-.zapatillas{
-	background-image: url(../img/shoes_!.jpg);
+#zapatillas{
+	background-image: url(../img/shoes_1.jpg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: right;
-	height: 500px;
+	height: 550px;
 }
-.zapatillas h3{
-	margin-top:2%;
+#zapatillas h2{
+	margin-top: 10%;
+	font-size: 30px;
+	margin-bottom: 5%;
 }
 .box-form{
 	padding-left: 7%;
@@ -36,15 +38,16 @@ nav li{
 	margin: 1% 0;
 	width: 100%;
 	height: 50px;
-	border: 1px solid rgb(83, 88, 95);
+	border: 2px solid #e0e0e0;
 }
 .box-mensaje{
+	background-color: transparent; 
 	padding: 2% 0 0 7%;
 	font-size: 16px;
 	margin: 1% 0;
 	width: 100%;
 	height: 200px;
-	border: 1px solid rgb(83, 88, 95);
+	border: 2px solid #e0e0e0;
 }
 .box-form2{
 	margin: 1% 0;

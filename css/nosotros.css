@@ -34,3 +34,19 @@
 	padding: 5%;
 	font-size: 41px;
 }
+.col-3{
+	padding: 10px;
+}
+.f-t{
+	height: 180px;
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+.col-3 h5{
+	margin: 10px 0 5px 0;
+}
+.titulo{
+    font-size: 30px;
+    margin: 3% auto;
+    text-align: center;
+}
